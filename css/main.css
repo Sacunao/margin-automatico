@@ -1,0 +1,11 @@
+.arriba{
+	width: 200px;
+	border: 15px solid yellow;
+	padding: 25px;
+}
+.medio{
+	width: 200px;
+	border: 15px solid yellow;
+	padding: 25px;
+	margin: auto;
+}
