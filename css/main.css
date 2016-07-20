@@ -2,10 +2,12 @@
 	width: 200px;
 	border: 15px solid yellow;
 	padding: 25px;
+	text-align: center;
 }
 .medio{
 	width: 200px;
 	border: 15px solid yellow;
 	padding: 25px;
 	margin: auto;
+	text-align: left;
 }
